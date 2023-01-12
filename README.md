@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gentrit.ukelli@gmail.com**
 
-- ⚡ Fun fact **The first computer did not use electricity!**
+- ⚡ Fun fact: **The first computer did not use electricity!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
