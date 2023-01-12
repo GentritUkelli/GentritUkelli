@@ -5,7 +5,7 @@
 
 - 🌱I'm ameliorating in **Java**
 
-- 📫 How to reach me **gentrit.ukelli@gmail.com**
+- 📫 How to reach me: **gentrit.ukelli@gmail.com**
 
 - ⚡ Fun fact: **The first computer did not use electricity!**
 
