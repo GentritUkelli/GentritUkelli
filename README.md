@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋, I'm Gentrit Ukelli</h1>
+<h1 align="center">Hi 👋, I'm Gentrit Ukelli</h1>
 <h3 align="center">A passionate Java Developer</h3>
 
 - 🔭 I’m working as an intern at **MakerMinds**
