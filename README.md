@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **gentrit.ukelli@gmail.com**
 
-- ⚡ Fun fact: **The first computer did not use electricity!**
+- ⚡ Fun fact: **Copy and Paste was programmed by programmers for programmers actually..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
