@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **gentrit.ukelli@gmail.com**
 
-- ⚡ Fun fact: **Copy and Paste was programmed by programmers for programmers actually..**
+- ⚡ Funny fact about coding: **Debugging is like being a detective in a crime movie where you're also the murderer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
