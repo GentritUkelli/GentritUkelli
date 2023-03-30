@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gentrit Ukelli</h1>
-<h3 align="center">Junior Java Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🌱I'm ameliorating in **Java,HTML,CSS,JavaScript and also Kotlin**
 
