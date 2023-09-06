@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gentrit Ukelli</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱I'm ameliorating in **Java,HTML,CSS,JavaScript**
+- 🌱I'm currently learning **Java and JavaScript**
 
 - 📫 How to reach me: **gentrit.ukelli@gmail.com**
 
