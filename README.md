@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gentrit Ukelli</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Restaurant-point App and Employee Mangement**
+- 🔭 I’m currently working on **Restaurant-point App and Employee Mangement App**
 
 - 🌱 I’m currently learning **Java, Kotlin, React, Redux, JavaScript, Express**
 
